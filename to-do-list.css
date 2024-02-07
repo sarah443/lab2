@@ -1,9 +1,9 @@
 .my-list{ 
     background-color: #81f7ba;
-    padding : 8px 24px; 
-    width: 500px; 
+    padding : 10px 30px; 
+    width: 600px; 
     font-size: 30px;
-    border: 1px solid #81f7be; 
+    border: 1px solid #e5f781; 
     box-shadow: 0 0 10px 2px #333333; 
     margin:auto; }
     ol{ margin:12px; }
